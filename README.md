@@ -1,4 +1,6 @@
 # BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis. 
+
+Repository containining dataset described in the following paper:
 ```
 BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis
 David Kartchner*, Irfan Al-Hussaini*, Haydn Turner*, Jennifer Deng, Shubham Lohiya, Prasanth Bathala, Cassie Mitchell
