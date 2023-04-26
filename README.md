@@ -33,7 +33,7 @@ In 46th International ACM SIGIR Conference on Research and Development in Inform
  booktitle = "Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)",
  month = July,
  year = "2023",
- address = "Toronto, Canada",
- publisher = "Association for Computational Linguistics"
+ address = "Taipei, Taiwan",
+ publisher = "Association for Computing Machinery"
 }
 ```
