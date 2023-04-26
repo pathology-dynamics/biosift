@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+type: conference, proceedings
+message: "If you use this dataset or repository, please cite it as below."
+authors:
+- family-names: "Kartchner"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0003-1937-1840"
+- family-names: "Al-Hussaini"
+  given-names: "Irfan"
+  orcid: "https://orcid.org/0000-0003-2969-7019"
+- family-names: "Turner"
+  given-names: "Haydn"
+title: "BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis"
