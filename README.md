@@ -21,7 +21,7 @@ In 46th International ACM SIGIR Conference on Research and Development in Inform
 
 ## Citation Bibtex:
 ```
-@inproceedings{biolaysumm-2023-overview,
+@inproceedings{biosift2023,
  title = "BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis",
  author = "Kartchner, David and 
     Al-Hussaini, Irfan and 
