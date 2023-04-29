@@ -5,7 +5,6 @@ Repository containining dataset described in the following paper:
 > BioSift: A Dataset for Filtering Biomedical Abstracts for Drug Repurposing and Clinical Meta-Analysis <br>
 > David Kartchner*, Irfan Al-Hussaini*, Haydn Turner*, Jennifer Deng, Shubham Lohiya, Prasanth Bathala, Cassie Mitchell <br>
 > In 46th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2023)
-```
 
 ## PMID_Title_Abstract.csv
 - Contains the PMID of the abstract, the Title of the abstract, and the entire abstract
